@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I´m César 👋</h1>
+<h1 align="center">Hello, I'm Cesar 👋</h1>
 <h2 align="center">PhD in Engineering Sciences</h2>
 </div>
 <img src="https://cesarosimani.com.ar/2024/osmvision/banner_github_cosimani.png">
