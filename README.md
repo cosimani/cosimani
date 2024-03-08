@@ -1,16 +1,17 @@
 <div align="center">
-<h1 align="center">Hello, I'm Cesar 👋</h1>
-<h2 align="center">PhD in Engineering Sciences</h2>
+  <h1>Hello, I’m Cesar</h1>
+  <h3>PhD in Engineering Sciences ✨</h3>
 </div>
-<img src="https://cesarosimani.com.ar/2024/osmvision/banner_github_cosimani.png">
+<br>
+<div align="center">
+  <img src="https://www.cesarosimani.com.ar/2024/osmvision/banner_github_cosimani.png">
+</div>
 
+<br>
+
+- 🔭 I’m currently working on object detection with YOLOv8, MediaPipe for hand gesture detection, license plate detection and factory product counting.
 
 <!--
-**cosimani/cosimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
