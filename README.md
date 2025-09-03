@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://www.cesarosimani.com.ar/2024/osmvision/banner_github_cosimani.png" width="50%">
+  <img src="https://www.cesarosimani.com.ar/2024/osmvision/banner_github_cosimani.png" width="65%">
 </div>
 
 <br>
